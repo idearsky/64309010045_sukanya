@@ -32,7 +32,7 @@
     <ThaiFood>
         <FoodID>007</FoodID>
         <foodName>ข้าวมันไก่</foodName>
-        <price>45บาท</price>
+        <price>40บาท</price>
     </ThaiFood>
     <ThaiFood>
         <FoodID>008</FoodID>
@@ -42,7 +42,7 @@
     <ThaiFood>
          <FoodID>009</FoodID>
         <foodName>ข้าวหมูแดง</foodName>
-        <price>50บาท</price>
+        <price>40บาท</price>
     </ThaiFood>
     <ThaiFood>
         <FoodID>10</FoodID>
