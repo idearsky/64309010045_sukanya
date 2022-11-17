@@ -9,4 +9,4 @@ console.log('Mr.Lee', order.A4paper * 5 + order.Ruler * 2)
 
 console.log('Mr.Yue', order.FlashDrive * 2 + order.A4paper * 3)
 
-console.log('Mr.dear', order.A5paper * 5 + order.Ruler * 3)
+console.log('Mr.Dear', order.A5paper * 5 + order.Ruler * 3)
