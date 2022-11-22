@@ -1,12 +1,22 @@
-let order = {
-    'A4paper' : 120,
-    'Ruler' : 25,
-    'FlashDrive' : 130,
-    'A5paper' : 125,
-}
-
-console.log('Mr.Lee', order.A4paper * 5 + order.Ruler * 2)
-
-console.log('Mr.Yue', order.FlashDrive * 2 + order.A4paper * 3)
-
-console.log('Mr.Dear', order.A5paper * 5 + order.Ruler * 3)
+var Customer = [{
+    "name" : "Mr.lee",
+    "order" :  ["A4 paper","Ruler"],
+    "Qty" : [2,5],
+    "price"  : [120,25]
+ },
+ {
+    "name" : "Mr.yue",
+    "order" :  ["Flash drive","A4 paper"],
+    "Qty" : [2,3],
+    "price"  : [130,120]
+ 
+},{
+   "name" : "Mr.Dear",
+   "order" :  ["Flash drive","A4 paper","pen"],
+   "Qty" : [2,3,5],
+   "price"  : [130,120,25]
+}];
+ console.log(Customer[0].name);  
+ console.log(Customer[1].order); 
+ console.log(Customer[1].Qty);
+ console.log(Customer[1].price);  
