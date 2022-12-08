@@ -1,0 +1,13 @@
+</head>
+<body>
+    <p id="display"></p>
+    <script>
+        let xhttp = new XMLHttpRequest();
+        xhttp.oped("GET", "htpp://localhost:3000/book");
+        xhttp.send();
+        xhttp.onload = function(){
+            console.log(this.responseText);
+        }
+    </script> 
+        </body>
+    </html>
