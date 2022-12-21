@@ -16,6 +16,17 @@
   <body>
       <script>
         let xhttp = new XMLHttpRequest();
+        xhttp.open("GET","http://localhost:3000/movieReview");
+        xhttp.send();
+        xhttp.onload = function(){
+            //console.log(this.responseText);
+  let temp = '';
+  let i = 0;
+  let obg = JSON.parse(this.responseText);
+  for (i=0;i<obj.length;i++){
+    console.log(obj[i]);
+  }          
+        }
       </script>
    
     
