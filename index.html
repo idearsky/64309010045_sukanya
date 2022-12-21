@@ -14,6 +14,9 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 </head>
   <body>
+    <div class="container" id="display">
+
+    </div>
       <script>
         let xhttp = new XMLHttpRequest();
         xhttp.open("GET","http://localhost:3000/movieReview");
@@ -24,8 +27,9 @@
   let i = 0;
   let obj = JSON.parse(this.responseText);
   for (i=0;i<obj.length;i++){
-    console.log(obj[i]);
-  }          
+    temp +='<tr><td>'+obj[i].movieName+'</td><tr>';
+  }
+  document.getElementById('display').innerHTML= '<table class = "table">'+temp+'</table>' ;      
         }
       </script>
    
