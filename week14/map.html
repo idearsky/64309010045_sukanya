@@ -14,26 +14,47 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" 
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" 
         crossorigin="anonymous"></script>
+
+        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 </head>
 
   <body>
+    <div class="container">
+        <div id="display"></div>
+    </div>
 
     <script>
+        google.charts.load('current', {
+        'packages':['geochart'],
+        });
+        google.charts.setOnLoadCallback(draw);
+
+        function draw() {
+
     fetch('https://jirawatchk.github.io/api.json')
         .then(res => res.json())
-        .then(data =>{
+        .then(data => {
              console.log(data);
              //console.log(data [2]);
-             let dataMao = [];
-             data[0] = ['Provinces','Total'];
+             let dataMap = [];
+             dataMap[0] = ['Provinces','Total'];
              for(i=1;i<78;i++){
                 dataMap[i] = [data[i]['CC-DESC'],data[i['TOTAL']]];
                 //data[i].CC-DESC
                 //data[i]['CC-DESC']
              }
              console.log(dataMap);
-        });
+             var data = google.visualization.arrayToDataTable(dataMap)
+             var options ={
+                region : 'TH',
+                resolution : 'provinces'
 
+             };
+             var  chart = new google.visualization.GeoChart(document.getElementById('display'));
+             chart.draw(data,options);
+
+        });
+    }
     </script>
 
   </body>
