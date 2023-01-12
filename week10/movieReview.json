@@ -1,0 +1,134 @@
+{
+  "movieReview": [
+    {
+      "id": 1,
+      "movieName": "Mobile Suit Gundam Char Counter Attack - โมบิล สูท กันดั้ม ชาร์ เคาท์เตอร์ แอคแทค",
+      "movieLength": 120,
+      "director": "Yoshiyuki Tomino",
+      "category": "หนังต่อสู้แอกชัน",
+      "picture": "https://movie.thaiware.com/upload_misc/movie/2020_11/original/201120180021083.jpg",
+      "trailer": "https://youtube.com/embed/SYZ4os_mFGg",
+      "review": {
+        "review": "เรื่องราวของ Simon กับ Robyn Callum สองสามีภรรยาฐานะการงานดีที่ย้ายจากคอนโด Chicago มาอยู่บ้านที่ Los Angeles แต่แล้วพวกเขาก็ต้องพบกับ Gordo อดีตเพื่อน(ไม่สนิท)ที่มีภูมิหลังบางอย่างกับ Simon ผู้เป็นสามี Gordo เริ่มส่งของขวัญต่างๆ มาแสดงความยินดีกับบ้านใหม่ถึงหน้าประตู มีตั้งแต่เหล้าไวน์ไปจนถึงปลาบ่อหน้าบ้าน ซึ่งสองสามีภรรยาไม่อาจรู้ได้แน่ชัดว่า Gordo จะมาดีหรือมาร้าย และของขวัญอันตรายที่คาดไม่ถึงจะมาส่งถึงหน้าบ้านเมื่อไหร่กัน คำถามที่เกี่ยวโยงกับความไว้เนื้อเชื่อใจกันและกันระหว่างสามีภรรยาค่อยๆ รุนแรงและน่าพิศวงมากขึ้นเรื่อยๆ นำไปสู่การกระทำที่ค่อยๆ เปิดเผยให้เห็นตัวตนของ Simon และ Gordo ท่ามกลางความหวาดระแวงของ Robyn ที่เป็นคนกลาง เธอจึงพยายามสืบหาอดีตเบื้องหลังของคนทั้งสอง...สามีของเธอและเพื่อนพิลึกวัยมัธยมของเขา",
+        "score": {
+          "screenPlay": 10,
+          "playing": 10,
+          "music": 10,
+          "actorSkills": 10,
+          "graphics": 10,
+          "average": 10
+        }
+      }
+    },
+    {
+      "id": 2,
+      "movieName": "Kamen Rider Heisei Generations FOREVER - รวมพลังมาสค์ไรเดอร์ ฟอร์เอเวอร์",
+      "movieLength": 100,
+      "director": "Kyohei Yamaguchi",
+      "category": "หนังต่อสู้แอกชัน",
+      "picture": "https://movie.thaiware.com/upload_misc/movie/2019_04/original/190413200027Zc3.jpg",
+      "trailer": "https://youtube.com/embed/1-job-YR5-s",
+      "review": {
+        "review": "สรุปเลยคือ Kamen Rider Heisei Generations FOREVER เป็นหนังที่แอบไม่อยากให้หลายคนมองข้าม แต่ถ้าใครที่อยากดูก็อาจจะต้องมีพื้นฐานในการดูหรือรู้จักไรเดอร์ยุคหลังๆ อยู่บ้าง โดยเฉพาะ ตัวจิโอและบิลด์เอง เพราะมีบทบาทที่ค่อนข้างสำคัญ รวมไปถึงยังมีเนื้อหาที่อิงมาจากฉบับซีรีส์อยู่บ้าง แต่โดยรวมแล้วถือว่าคุณภาพเลย เล่นกับความทรงจำของทุกคนได้ดี ดูสนุก ดูเพลินมากเลยทีเดียว สำหรับภาคนี้ ",
+        "score": {
+          "screenPlay": 7.5,
+          "playing": 7.5,
+          "music": 7.5,
+          "actorSkills": 7.5,
+          "graphics": 7,
+          "average": 7.4
+        }
+      }
+    },
+    {
+      "id": 3,
+      "movieName": "Star Wars: Episode VII - The Force Awakens - สตาร์ วอร์ส: อุบัติการณ์แห่งพลัง",
+      "movieLength": 140,
+      "director": "J.J. Abrams",
+      "category": "หนังต่อสู้แอกชัน,หนังผจญภัย,หนังแฟนตาซี,หนังไซไฟ",
+      "picture": "https://movie.thaiware.com/upload_misc/movie/2015_11/original/15110715064318L.jpg",
+      "trailer": "https://youtube.com/embed/gAUxw4umkdY",
+      "review": {
+        "review": "รวมไปถึงนัยยะแฝงต่างๆที่เจเจเองวางไว้ก็น่าชื่นชมและร่วมสมัยมาก นอกจากนี้ตัวละครแต่ละตัวยังมีมิติที่แปลกใหม่และน่าสนใจมากๆ ในส่วนของภาพและด้านอื่นๆก็ดีเยี่ยมเช่นกัน มีเลนแฟลร์ตามเอกลักษณ์บ้าง โดยรวมแล้ว The Force Awakens ไม่ผิดหวังและสมกับการรอคอยจริงๆ ห้ามพลาดด้วยประการทั้งปวง ยิ่งใครเป็นแฟนและชื่นชอบสตาร์วอร์สยิ่งต้องไม่พลาดครับ ",
+        "score": {
+          "screenPlay": 10,
+          "playing": 10,
+          "music": 10,
+          "actorSkills": 10,
+          "graphics": 10,
+          "average": 10
+        }
+      }
+    },
+    {
+      "id": 4,
+      "movieName": "DeadPool - เดดพูล",
+      "movieLength": 110,
+      "director": "Tim Miller",
+      "category": "หนังต่อสู้แอกชัน,หนังตลก",
+      "picture": "https://movie.thaiware.com/upload_misc/movie/2016_01/original/160130090646MI4.jpg",
+      "trailer": "https://youtube.com/embed/gtTfd6tISfw",
+      "review": {
+        "review": "รวมๆ ก็สนุกดี เพลินๆ ถึงพอดูไปสักพักจะรู้สึกว่ามันเป็นอารมณ์ Scary Movie ไปหน่อย แต่คิดว่าแฟน Deadpool ตัวจริงน่าจะชอบ และส่วนตัวแล้วก็ชอบ Scary Movie ",
+        "score": {
+          "screenPlay": 7,
+          "playing": 8,
+          "music": 10,
+          "actorSkills": 10,
+          "graphics": 9,
+          "average": 8.8
+        }
+      }
+    },
+    {
+      "id": 5,
+      "movieName": " The Angry Birds Movie - แองกรีเบิร์ดส เดอะมูฟวี่",
+      "movieLength": 100,
+      "director": "Clay Kaytis",
+      "category": "หนังการ์ตูน,หนังตลก",
+      "picture": "https://movie.thaiware.com/upload_misc/movie/2016_05/original/1605040906439am.jpg",
+      "trailer": "https:/youtube.com/embed/fpw37HP1e1U",
+      "review": {
+        "review": "โดยรวมคิดว่า ถ้าตัดเรื่องพล๊อตในครึ่งแรกของหนังให้กระชับมากกว่านี้ และไปกระหน่ำฉากแอคชั่นวินาศสันโรช่วงท้ายเรื่องให้เยอะขึ้น  The Angry Birds Movie คงจะให้ความบันเทิงมากกว่านี้หลายเท่าตัวแน่ๆ แต่ที่บอกได้แน่ๆคือ มันเป็นแอนิเมชั่นที่เหมาะสำหรับเด็กจริงๆ ผู้ใหญ่อาจจะต้องร้องยี้ เพราะไม่ตอบโจทย์คนดูที่มีอายุแล้วเป็นอย่างมากเลยทีเดียว 6/10 ",
+        "score": {
+          "screenPlay": 5.5,
+          "playing": 5.5,
+          "music": 5.5,
+          "actorSkills": 6,
+          "graphics": 7.5,
+          "average": 6
+        }
+      }
+    },
+    {
+      "id": 6,
+      "movieName": "DeadPool - เดดพูล",
+      "movieLength": "",
+      "director": "",
+      "category": "",
+      "review": {
+        "review": ""
+      }
+    },
+    {
+      "id": 7,
+      "movieName": "DeadPool - เดดพูล",
+      "movieLength": "",
+      "director": "",
+      "category": "",
+      "review": {
+        "review": ""
+      }
+    },
+    {
+      "id": 8,
+      "movieName": "DeadPool - เดดพูล",
+      "movieLength": "",
+      "director": "",
+      "category": "",
+      "review": {
+        "review": ""
+      }
+    }
+  ]
+}
