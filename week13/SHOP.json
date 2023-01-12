@@ -1,0 +1,113 @@
+{
+    "movieReview": [
+      {
+        "id": 1,
+        "shop_deta": "18/06/65",
+        "shop_deparmen" :"VIVO",
+        "shop_name":"V23",
+        "shop_value":14999,
+        "shop_discount":"9%",
+        "shop_trade":"",
+        "shop_pic":"https://media-cdn.bnn.in.th/180992/vivo-Smartphone-V23-2-thumbnail.jpg"
+       
+      },{
+        "id": 2,
+        "shop_deta": "18/06/65",
+        "shop_deparmen" :"VIVO",
+        "shop_name":"V23E",
+        "shop_value":9999,
+        "shop_discount":"9%",
+        "shop_trade":"",
+        "shop_pic":"https://media-cdn.bnn.in.th/264008/DEC22-_Samsung-frame_label_square_medium.png"
+        
+      },
+      {
+        "id": 3,
+        "shop_deta":"18/06/65",
+        "shop_deparmen" :"VIVO",
+        "shop_name":"Y21T",
+        "shop_value":6999,
+        "shop_discount":"9%",
+        "shop_trade":"",
+        "shop_pic":"https://media-cdn.bnn.in.th/167983/vivo-Smartphone-Y21T-(6+128GB)-Pearl-White-(5G)-1-thumbnail.jpg"
+       
+      },
+      {
+        "id": 4,
+        "shop_deta": "18/06/65",
+        "shop_deparmen" :"VIVO",
+        "shop_name":"Y15S",
+        "shop_value":4999,
+        "shop_discount":"9%",
+        "shop_trade":"",
+        "shop_pic":"https://media-cdn.bnn.in.th/167680/vivo-Smartphone-Y15s-(2022)-Mystic-Blue-1-square_medium.jpg"
+          
+        
+      },
+      {
+        "id": 5,
+        "shop_deta": "18/06/65",
+        "shop_deparmen" :"OPPO",
+        "shop_name":"A76",
+        "shop_value":4999,
+        "shop_discount":"15%",
+        "shop_trade":"",
+        "shop_pic":"https://media-cdn.bnn.in.th/180858/OPPO-Smartphone-A76-1-square_medium.jpg"
+        
+      },
+      {
+        "id": 6,
+        "shop_deta": "18/06/65",
+        "shop_deparmen" :"OPPO",
+        "shop_name":"A53",
+        "shop_value":8999,
+        "shop_discount":"15%",
+        "shop_trade":"",
+        "shop_pic":"https://media-cdn.bnn.in.th/152069/OPPO-Smartphone-A53-New-Moonlight-Black-1-square_medium.jpg"
+       
+      },
+      {
+        "id": 7,
+        "shop_deta":"18/06/65",
+        "shop_deparmen" :"OPPO",
+        "shop_name":"A96",
+        "shop_value":9999,
+        "shop_discount":"15%",
+        "shop_trade":"",
+        "shop_pic":"https://media-cdn.bnn.in.th/204065/OPPO-Smartphone-A96-1-thumbnail.jpg"
+        
+      },
+      {
+        "id": 8,
+        "shop_deta": "18/06/65",
+        "shop_deparmen" :"OPPO",
+        "shop_name":"A57",
+        "shop_value":6999,
+        "shop_discount":"15%",
+        "shop_trade":"",
+        "shop_pic":"https://media-cdn.bnn.in.th/207694/OPPO-Smartphone-A57-1-thumbnail.jpg"
+    },
+    {
+      "id": 9,
+      "shop_deta": "18/06/65",
+      "shop_deparmen" :"OPPO",
+      "shop_name":"A77",
+      "shop_value":8999,
+      "shop_discount":"15%",
+      "shop_trade":"",
+      "shop_pic":"https://media-cdn.bnn.in.th/242079/OPPO-Smartphone-A77s-1-thumbnail.jpg"
+    },
+    {
+      "id": 10,
+      "shop_deta": "18/06/65",
+      "shop_deparmen" :"OPPO",
+      "shop_name":"A17",
+      "shop_value":5499,
+      "shop_discount":"15%",
+      "shop_trade":"",
+      "shop_pic":"https://media-cdn.bnn.in.th/242744/OPPO-Smartphone-A17-Midnight-Black-1-square_medium.jpg"
+        }
+        
+    
+    ]
+  }
